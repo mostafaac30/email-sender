@@ -15,8 +15,8 @@ app.use('/', router)
 var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'mostafaedu0@gmail.com',   //put your mail here
-        pass: 'zymowxobvvkhlvjx'              //password here
+        user: 'apps@winggs.com',   //put your mail here
+        pass: 'vivdfvhafogpzzhz'              //password here
     }
 });
 
